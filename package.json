@@ -1,0 +1,24 @@
+{
+  "name": "criptografia-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest",
+    "examples": "examples.bat"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@noble/secp256k1": "^3.0.0",
+    "commander": "^14.0.1",
+    "crypto-js": "^4.2.0",
+    "elliptic": "^6.6.1",
+    "jest": "^30.1.3",
+    "keccak256": "^1.0.6"
+  }
+}
