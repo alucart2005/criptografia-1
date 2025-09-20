@@ -137,6 +137,7 @@ const valid = secp256r1.verify(sig, 'message', keys3.publicKey);
 La librería incluye varios scripts npm para facilitar su uso:
 
 ```bash
+npm start             # Ejecutar el CLI de la librería criptográfica
 npm test              # Ejecutar todos los tests
 npm run examples      # Ejecutar ejemplos interactivos
 ```
