@@ -8,7 +8,8 @@
   },
   "scripts": {
     "test": "jest",
-    "examples": "examples.bat"
+    "examples": "examples.bat",
+    "start": "node main.js"
   },
   "keywords": [],
   "author": "",
